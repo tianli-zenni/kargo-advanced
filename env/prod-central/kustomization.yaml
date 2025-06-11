@@ -4,4 +4,4 @@ kind: Kustomization
 resources:
 - ../../base
 
-namespace: guestbook-prod-central
+namespace: kargo-advanced-prod-central
